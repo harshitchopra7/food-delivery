@@ -1,0 +1,12 @@
+.home {
+    padding: 20px 7%;
+}
+.home_heading {
+    text-align: center;
+}
+.home_products {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
